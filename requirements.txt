@@ -1,0 +1,7 @@
+Pillow
+PyDirectInput
+pynput
+pyparsing
+pywin32
+screen_search
+pytesseract
