@@ -260,18 +260,12 @@ available_row += 1
 ttk.Label(mainframe, text='').grid(row=available_row, column=2)
 
 available_row += 1
-note_label1 = tk.Label(mainframe, text='Creator: K·#5456 (discord)\nUntuk minta bantuan/pertanyaan\nbisa tanya di discord Game Boosting\n(discord.link/gblso), #report-script\natau #script-discuss, tapi DMs tidak\ndirekomendasikan.\n\nKalau bisa cari dulu masalah/pertanyaan\nyang sama sebelum lapor menggunakan\nfitur search (ctrl+f)')
+note_label1 = tk.Label(mainframe, text='Creator: K·#0001 (discord)\nUntuk minta bantuan/pertanyaan\nbisa tanya di discord Game Boosting\n(discord.link/gblso), #report-script\natau #script-discuss, tapi DMs tidak\ndirekomendasikan.\n\nKalau bisa cari dulu masalah/pertanyaan\nyang sama sebelum lapor menggunakan\nfitur search (ctrl+f)')
 note_label1.grid(row=available_row, column=1, sticky=tk.W)
 note_label2 = ttk.Label(mainframe, text='')
 note_label2.grid(row=available_row, column=2)
-note_label3 = ttk.Label(mainframe, text='Script ini gratis dan tidak untuk diperjualbelikan.\n\nDi update seiring waktu, cek #script-discuss untuk\nnotif update dan patch note.\n\nBagi yang ingin donasi silahkan, bisa send via ovo di link bawah')
+note_label3 = ttk.Label(mainframe, text='Script ini gratis dan tidak untuk diperjualbelikan.\n\nScript ini kemungkinan tidak akan mendapatkan\nupdate lagi.')
 note_label3.grid(row=available_row, column=3, sticky=tk.E)
-
-available_row += 1
-ttk.Label(mainframe, text='').grid(row=available_row, column=2)
-donate_label = ttk.Label(mainframe, text='QR code ovo', foreground='blue', cursor='hand2')
-donate_label.bind("<Button-1>", lambda _: web("https://cdn.discordapp.com/attachments/717666525594517524/848148715781095424/ovo.png"))
-donate_label.grid(row=available_row, column=3)
 
 available_row += 1
 ttk.Label(mainframe, text='Versi 2.2', foreground='green').grid(row=available_row, column=1, sticky=tk.W+tk.S)
