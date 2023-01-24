@@ -260,11 +260,11 @@ available_row += 1
 ttk.Label(mainframe, text='').grid(row=available_row, column=2)
 
 available_row += 1
-note_label1 = tk.Label(mainframe, text='Creator: K·#0001 (discord)\nUntuk minta bantuan/pertanyaan\nbisa tanya di discord Game Boosting\n(discord.link/gblso), #report-script\natau #script-discuss, tapi DMs tidak\ndirekomendasikan.\n\nKalau bisa cari dulu masalah/pertanyaan\nyang sama sebelum lapor menggunakan\nfitur search (ctrl+f)')
+note_label1 = tk.Label(mainframe, text='Creator: K·#4963 (discord)\nUntuk minta bantuan/pertanyaan\nbisa langsung tanya di DM.')
 note_label1.grid(row=available_row, column=1, sticky=tk.W)
 note_label2 = ttk.Label(mainframe, text='')
 note_label2.grid(row=available_row, column=2)
-note_label3 = ttk.Label(mainframe, text='Script ini gratis dan tidak untuk diperjualbelikan.\n\nScript ini kemungkinan tidak akan mendapatkan\nupdate lagi.')
+note_label3 = ttk.Label(mainframe, text='Script ini gratis dan tidak untuk diperjualbelikan.')
 note_label3.grid(row=available_row, column=3, sticky=tk.E)
 
 available_row += 1
