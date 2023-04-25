@@ -1,3 +1,8 @@
+# Important Note
+Dikarenakan mancing tidak berubah, dan kurangnya motivasi, script ini di asripkan dan tidak akan mendapatkan update lanjutan. Support masih bisa ditanyakan melalui discord DM.\
+\
+Unfortunately for this one, English translation will not happen due to lack of motivation. Even though this script is abandoned and archived, support will still be provided for those who speak English or Indonesia.
+
 # Lost-Saga-Auto-Mancing
 Macro untuk mancing di Lost Saga Origin
 
@@ -17,6 +22,6 @@ Cara kerja:
  - Delay, bisa diatur
 
 ## Note
-Hanya berkeja untuk Lost Saga Origin atau Lost Saga berbahasa indonesia lainnya. Jika ingin menggunakan versi lain, coba tukar gambar komponen yang ada di dalam folder img, jika masih belum bisa modifikasi script mungkin dibutuhkan.
-
-Update akan muncul kalo udah ada motivasi.
+Hanya berkeja untuk Lost Saga Origin atau Lost Saga berbahasa indonesia lainnya. Jika ingin menggunakan versi lain, coba tukar gambar komponen yang ada di dalam folder `img`, jika masih belum bisa, modifikasi script mungkin dibutuhkan.\
+\
+This was tested on Lost Saga Origin, which is an Indonesia client. If you want to use it on other client with different language, try to swap the component that is inside the `img` folder, if it still does not possible, a script modification may be needed.
