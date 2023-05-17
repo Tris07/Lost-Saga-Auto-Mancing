@@ -260,7 +260,7 @@ available_row += 1
 ttk.Label(mainframe, text='').grid(row=available_row, column=2)
 
 available_row += 1
-note_label1 = tk.Label(mainframe, text='Creator: K·#4963 (discord)\nUntuk minta bantuan/pertanyaan\nbisa langsung tanya di DM.')
+note_label1 = tk.Label(mainframe, text='Creator: Trisnox(#4963) (discord)\nUntuk minta bantuan/pertanyaan\nbisa langsung tanya di DM.')
 note_label1.grid(row=available_row, column=1, sticky=tk.W)
 note_label2 = ttk.Label(mainframe, text='')
 note_label2.grid(row=available_row, column=2)
