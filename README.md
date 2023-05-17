@@ -1,7 +1,11 @@
 # Important Note
 Dikarenakan mancing tidak berubah, dan kurangnya motivasi, script ini di asripkan dan tidak akan mendapatkan update lanjutan. Support masih bisa ditanyakan melalui discord DM.\
 \
-Unfortunately for this one, English translation will not happen due to lack of motivation. Even though this script is abandoned and archived, support will still be provided for those who speak English or Indonesia.
+Keamanan akun ditanggung sendiri, baca [kebijakan VALOFE](https://vfun.valofe.com/customer/g_pc_terms) untuk informasi lebih lanjut.\
+\
+Unfortunately for this one, English translation will not happen due to lack of motivation. Even though this script is abandoned and archived, support will still be provided for those who speak English or Indonesia.\
+\
+Using macro/bot/script is against [VALOFE TERMS](https://vfun.valofe.com/customer/g_pc_terms), do so at your own risk.
 
 # Lost-Saga-Auto-Mancing
 Macro untuk mancing di Lost Saga Origin
