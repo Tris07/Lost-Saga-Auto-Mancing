@@ -7,6 +7,9 @@ Unfortunately for this one, English translation will not happen due to lack of m
 \
 Using macro/bot/script is against [VALOFE TERMS](https://vfun.valofe.com/customer/g_pc_terms), do so at your own risk.
 
+# Support Server
+https://discord.gg/GJ2P6u4edG
+
 # Lost-Saga-Auto-Mancing
 Macro untuk mancing di Lost Saga Origin
 
